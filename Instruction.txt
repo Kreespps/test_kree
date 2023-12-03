@@ -1,0 +1,11 @@
+1.Install Required Packages:
+2.Database Setup:
+Create a database named database_01 in MariaDB.
+3.Source Data Preparation:
+add resource data into path 
+	day1_data = "day1_files/"
+	day1_data = "day2_files/"   
+4.Archive Path:
+Create an archive/ directory where processed files will be moved. 
+5.Run the Script:
+
